@@ -147,14 +147,26 @@ img {
 
     .lessons .col {
         width: 100%;
+        padding: 3rem;
     }
 
     .steps .col {
         width: 100%;
     }
 
+    .steps {
+        padding: 3rem;
+        margin: 0;
+    }
+
     .why-us .col-left {
         width: 100%;
+    }
+
+    .why-us {
+        margin: 0;
+        padding: 3rem;
+        background-color: black;
     }
     
     .why-us .col-right {
