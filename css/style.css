@@ -158,15 +158,15 @@ img {
         padding: 3rem;
         margin: 0;
     }
+    
+    .why-us {
+        margin: 0;
+        padding: 3rem 0;
+        background-color: #222222;
+    }
 
     .why-us .col-left {
         width: 100%;
-    }
-
-    .why-us {
-        margin: 0;
-        padding: 3rem;
-        background-color: black;
     }
     
     .why-us .col-right {
